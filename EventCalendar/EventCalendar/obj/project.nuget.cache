@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAPq7gpRDbRoDllaB9GuprbCg/gA5Eu3NeHRv2XIYAqCp7bNVZafs2yP2MeV187cdynte4ysmqh9gFxGvh/vFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\01101\\Desktop\\C#_Local\\TEST\\EventCalendar\\EventCalendar\\EventCalendar\\EventCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\01101\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\stripe.net\\41.3.0\\stripe.net.41.3.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\01101\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
